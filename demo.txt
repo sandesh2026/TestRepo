@@ -1,1 +1,4 @@
 demo file created
+Resolving an issue
+added a line
+added a line
